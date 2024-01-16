@@ -3,7 +3,7 @@
 
 **Author:** Andres Guerrero <br />
 **Email:** peqwar@gmail.com <br />
-**LinkedIn:** https://www.linkedin.com/in/peqwar/
+**LinkedIn:** <a href="https://www.linkedin.com/in/peqwar/" target="_blank">https://www.linkedin.com/in/peqwar/</a>
 
 **Published:** January 16, 2024
 
