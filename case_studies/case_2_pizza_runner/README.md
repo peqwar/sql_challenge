@@ -29,7 +29,7 @@ Key datasets for this case study:
 - **pizza_toppings** : The table contains all of the `topping_name` values with their corresponding `topping_id` value
 
 ## Case Study
-[Case Study #2 - Pizza Runner: SQL Solutions](./pizza_runner_solutions.md)
+[Case Study #2 - Pizza Runner: SQL Solutions](./case2_pizza_runner_solutions.md)
 
 ## About the challenge:
 > **Creator:** Danny Ma 
